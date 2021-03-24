@@ -1,0 +1,9 @@
+{
+    "Pizza": {
+    "store": "string",
+    "toppings": "string",
+    "crust": "string",
+    "price": "int",
+    "orderDate": "date"
+    }
+   }
