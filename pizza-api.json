@@ -1,7 +1,7 @@
 [
     {
        "name": "Pepperoni",
-       "crust": "Thin",
+       "crust": "Thick",
        "toppings": ["Pepperoni"],
        "price": 20,
        "image": "https://www.simplyrecipes.com/thmb/HQJVIRwkySb-QiYv6saC9dEjU5A=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-4-82c60893fcad4ade906a8a9f59b8da9d.jpg"
@@ -10,7 +10,14 @@
         "name": "Hawaiian",
         "crust": "Thick",
         "toppings": ["Pineapple", "Ham"],
-        "price": "Varies - find a library",
+        "price": 25,
         "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/hawaiian-pizza-16-1024x1536.jpg"
+    },
+    {
+        "name": "Green Pepper",
+        "crust": "Thick",
+        "toppings": ["Green Pepper"],
+        "price": 20,
+        "image": "https://c.recipeland.com/images/r/15200/ec40a735ada55b753b18_550.jpg"
     }
 ]
